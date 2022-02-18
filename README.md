@@ -10,9 +10,6 @@
 
 5 | Paste the thing that you copied ( Ctrl + v )
 
-Then Done, Have fun! :D
-
-
 # MADE WITH JAVASCRIPT
 
 # DISCORD : "키드 - K1D#5550"
