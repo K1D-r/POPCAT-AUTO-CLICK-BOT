@@ -1,7 +1,4 @@
-# POPCAT-AUTO-CLICK-BOT
-POPCAT AUTO CLICK BOT / MADE WITH JAVASCRIPT
-
-MADE BY K1D-r ( ME ON GITHUB )
+# POPCAT-AUTO-CLICK-BOT / MADE BY K1D-r
 
 1 | JOIN 'https://pastebin.com/PRmK1Dqi'
 
@@ -14,3 +11,6 @@ MADE BY K1D-r ( ME ON GITHUB )
 5 | Paste the thing that you copied ( Ctrl + v )
 
 Then Done, Have fun! :D
+
+
+# POPCAT AUTO CLICK BOT / MADE WITH JAVASCRIPT
