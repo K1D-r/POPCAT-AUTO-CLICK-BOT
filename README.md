@@ -1,6 +1,6 @@
 # POPCAT-AUTO-CLICK-BOT / MADE BY K1D-r
 
-1 | JOIN 'https://pastebin.com/PRmK1Dqi'
+1 | JOIN 'https://raw.githubusercontent.com/K1D-r/POPCAT-AUTO-CLICK-BOT/main/MAIN.JS' or 'https://pastebin.com/PRmK1Dqi'
 
 2 | Copy all contents ( Ctrl + c )
 
